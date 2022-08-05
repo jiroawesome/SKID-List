@@ -1,2 +1,5 @@
 # SKID-List
-List of those fucking SKIDS
+
+## List 1
+
+- https://github.com/7zx | Skidded a Spotify Follow Bot
